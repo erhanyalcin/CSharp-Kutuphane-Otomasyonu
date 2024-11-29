@@ -245,7 +245,7 @@ namespace Kutuphane
             Form5 f25 = new Form5();
             f25.ShowDialog();
         }
-
+//daha detayli incelenecek
         private void enÇokOkunanKitaplarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form6 f26 = new Form6();
